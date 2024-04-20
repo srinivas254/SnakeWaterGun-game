@@ -21,6 +21,7 @@ The winner is announced, and scores are updated accordingly.
 Play again to continue the fun!
 
 # Technologies Used
+
 HTML: Provides the structure and content of the game.
 CSS: Styles the game interface, including buttons, icons, and layout.
 JavaScript: Implements the game logic, including player moves, computer moves, and winner determination.
